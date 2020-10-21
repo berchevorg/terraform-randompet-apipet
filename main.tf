@@ -9,4 +9,3 @@ resource "null_resource" "helloWorld" {
   }
 }
 
-
