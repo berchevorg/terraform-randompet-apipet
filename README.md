@@ -15,3 +15,7 @@ This is just a test1
 
 - hello world
 - hello world
+
+**Picture**
+
+![](https://github.com/berchevorg/terraform-randompet-apipet/blob/master/pic/devops.png)
